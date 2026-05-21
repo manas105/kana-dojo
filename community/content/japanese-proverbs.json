@@ -546,27 +546,33 @@
     "meaning": "Misfortune never comes alone"
   },
   {
-  "japanese": "猿も木から落ちる",
-  "romaji": "Saru mo ki kara ochiru",
-  "english": "Even monkeys fall from trees",
-  "meaning": "Experts can make mistakes"
- },
- {
-  "japanese": "魚心あれば水心",
-  "romaji": "Uogokoro areba mizugokoro",
-  "english": "If fish has heart, water has heart",
-  "meaning": "Good intentions are reciprocated"
- },
- {
-  "japanese": "出る釘は打たれる",
-  "romaji": "Deru kugi wa utareru",
-  "english": "The nail that sticks out gets hammered down",
-  "meaning": "Standing out invites criticism"
-}, 
+    "japanese": "猿も木から落ちる",
+    "romaji": "Saru mo ki kara ochiru",
+    "english": "Even monkeys fall from trees",
+    "meaning": "Experts can make mistakes"
+  },
   {
-  "japanese": "善因善果",
-  "romaji": "Zenin zenka",
-  "english": "Good causes bring good results",
-  "meaning": "Good deeds lead to good outcomes"
-}
+    "japanese": "魚心あれば水心",
+    "romaji": "Uogokoro areba mizugokoro",
+    "english": "If fish has heart, water has heart",
+    "meaning": "Good intentions are reciprocated"
+  },
+  {
+    "japanese": "出る釘は打たれる",
+    "romaji": "Deru kugi wa utareru",
+    "english": "The nail that sticks out gets hammered down",
+    "meaning": "Standing out invites criticism"
+  },
+  {
+    "japanese": "善因善果",
+    "romaji": "Zenin zenka",
+    "english": "Good causes bring good results",
+    "meaning": "Good deeds lead to good outcomes"
+  },
+  {
+    "japanese": "情けは人の為ならず",
+    "romaji": "Nasake wa hito no tame narazu",
+    "english": "Kindness is not for others alone",
+    "meaning": "Kindness comes back to you"
+  }
 ]
