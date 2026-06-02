@@ -123,7 +123,7 @@
     "english": "Hearing a hundred times is not as good as seeing once",
     "meaning": "Seeing is believing",
     "completed": false,
-    "issued": false
+    "issued": true
   },
   {
     "id": 15,
@@ -464,7 +464,7 @@
     "romaji": "En wa inamono aji na mono",
     "english": "Fate is strange yet delightful",
     "meaning": "Chance connections can be surprisingly good",
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
@@ -906,7 +906,7 @@
     "english": "Early rising is worth three coins",
     "meaning": "Getting up early brings benefits",
     "completed": false,
-    "issued": false
+    "issued": true
   },
   {
     "id": 102,
@@ -923,7 +923,7 @@
     "romaji": "Nasake wa hito no tame narazu",
     "english": "Kindness is not for others",
     "meaning": "Good deeds return to you",
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
@@ -1005,7 +1005,7 @@
     "english": "A journey of a thousand miles begins with one step",
     "meaning": "Start small to reach big goals",
     "completed": false,
-    "issued": false
+    "issued": true
   },
   {
     "id": 113,
@@ -1149,7 +1149,7 @@
     "english": "See the trees but not the forest",
     "meaning": "Missing the bigger picture",
     "completed": false,
-    "issued": false
+    "issued": true
   },
   {
     "id": 129,
@@ -1194,7 +1194,7 @@
     "english": "A three-day monk",
     "meaning": "Someone who quits quickly",
     "completed": false,
-    "issued": false
+    "issued": true
   },
   {
     "id": 134,
@@ -1526,7 +1526,7 @@
     "romaji": "Koketsu ni irazunba koji wo ezu",
     "english": "You can’t get the tiger’s cub without entering the lair",
     "meaning": "No reward without risk",
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {

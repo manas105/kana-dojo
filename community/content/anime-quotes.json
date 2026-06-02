@@ -649,5 +649,19 @@
   "english": "This world is cruel... yet so beautiful.",
   "anime": "Attack on Titan",
   "character": "Mikasa Ackerman"
-  }
+  },
+  {
+  "japanese": "世界は残酷だ…それでも美しい",
+  "romaji": "Sekai wa zankoku da... soredemo utsukushii",
+  "english": "This world is cruel... yet so beautiful. (alt wording 26) (alt wording 78)",
+  "anime": "Attack on Titan",
+  "character": "Mikasa Ackerman"
+},
+{
+  "japanese": "撃っていいのは撃たれる覚悟がある奴だけだ",
+  "romaji": "Utte ii no wa uterareru kakugo ga aru yatsu dake da",
+  "english": "Only those prepared to be shot should pull the trigger.",
+  "anime": "Code Geass: Lelouch of the Rebellion",
+  "character": "Lelouch vi Britannia"
+}
 ]
