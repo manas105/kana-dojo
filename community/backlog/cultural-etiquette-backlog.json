@@ -240,7 +240,7 @@
     "note": "中央は神様の通り道とされる。",
     "id": 27,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "situation": "温泉 2",
@@ -339,7 +339,7 @@
     "note": "丁寧さは姿勢で伝わる。",
     "id": 38,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "situation": "エスカレーター 2",
@@ -429,7 +429,7 @@
     "note": "共同浴場の基本ルール。",
     "id": 48,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "situation": "会議 3",
@@ -438,7 +438,7 @@
     "note": "合意形成を重視する文化。",
     "id": 49,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "situation": "列に並ぶ時 3",
@@ -483,7 +483,7 @@
     "note": "距離感が縮まるまでは敬語が無難。",
     "id": 54,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "situation": "レジ会計 3",
@@ -510,7 +510,7 @@
     "note": "ゴミ箱が少ない地域がある。",
     "id": 57,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "situation": "お辞儀 3",
@@ -546,7 +546,7 @@
     "note": "商談中は机上に置くのが一般的。",
     "id": 61,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "situation": "訪問時の玄関 4",
@@ -707,7 +707,7 @@
     "dont": "両側を塞ぐ",
     "note": "地域差に注意。",
     "id": 79,
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
@@ -798,7 +798,7 @@
     "note": "合意形成を重視する文化。",
     "id": 89,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "situation": "列に並ぶ時 5",
@@ -834,7 +834,7 @@
     "note": "御本尊周辺は撮影不可が多い。",
     "id": 93,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "situation": "年上との会話 5",
@@ -978,7 +978,7 @@
     "note": "合意形成を重視する文化。",
     "id": 109,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "situation": "列に並ぶ時 6",
@@ -1023,7 +1023,7 @@
     "note": "距離感が縮まるまでは敬語が無難。",
     "id": 114,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "situation": "レジ会計 6",
